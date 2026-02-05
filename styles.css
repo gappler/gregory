@@ -124,6 +124,13 @@ a:hover {
   font-size: 0.95rem;
 }
 
+.session .build-link {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.95rem;
+  color: var(--orange);
+}
+
 /* Contact */
 .contact {
   padding: 28px 0 60px;
